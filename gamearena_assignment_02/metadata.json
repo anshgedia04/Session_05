@@ -1,0 +1,9 @@
+{
+  "name": "GameArena JavaScript",
+  "description": "A React + Tailwind CSS game discovery app converted from TypeScript to JavaScript",
+  "version": "1.0.0",
+  "framework": "React",
+  "styling": "Tailwind CSS",
+  "language": "JavaScript",
+  "buildTool": "Vite"
+}
