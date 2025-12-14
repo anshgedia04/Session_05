@@ -1,0 +1,5 @@
+{
+  "name": "ShopSphere",
+  "description": "A responsive E-Commerce app with Authentication, Dashboard, and complex Product Listings using React, Redux Toolkit, and TanStack Query.",
+  "requestFramePermissions": []
+}
